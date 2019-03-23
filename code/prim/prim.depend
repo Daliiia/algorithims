@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553313000 source:e:\algorithims\code\prim\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<functional>
+	<utility>
+
